@@ -1,0 +1,13 @@
+/var/folders/m7/h1mg7c7x40ddjz6mxjxm3htr0000gn/T/build_script_7_1_yayofh7h: line 3: publishing:: command not found
+/var/folders/m7/h1mg7c7x40ddjz6mxjxm3htr0000gn/T/build_script_7_1_yayofh7h: line 4: app_store_connect:: command not found
+/var/folders/m7/h1mg7c7x40ddjz6mxjxm3htr0000gn/T/build_script_7_1_yayofh7h: line 6: api_key:: command not found
+/var/folders/m7/h1mg7c7x40ddjz6mxjxm3htr0000gn/T/build_script_7_1_yayofh7h: line 7: key_id:: command not found
+/var/folders/m7/h1mg7c7x40ddjz6mxjxm3htr0000gn/T/build_script_7_1_yayofh7h: line 8: issuer_id:: command not found
+/var/folders/m7/h1mg7c7x40ddjz6mxjxm3htr0000gn/T/build_script_7_1_yayofh7h: line 11: submit_to_testflight:: command not found
+/var/folders/m7/h1mg7c7x40ddjz6mxjxm3htr0000gn/T/build_script_7_1_yayofh7h: line 12: beta_groups:: command not found
+/var/folders/m7/h1mg7c7x40ddjz6mxjxm3htr0000gn/T/build_script_7_1_yayofh7h: line 13: -: command not found
+/var/folders/m7/h1mg7c7x40ddjz6mxjxm3htr0000gn/T/build_script_7_1_yayofh7h: line 14: -: command not found
+/var/folders/m7/h1mg7c7x40ddjz6mxjxm3htr0000gn/T/build_script_7_1_yayofh7h: line 17: submit_to_app_store:: command not found
+/var/folders/m7/h1mg7c7x40ddjz6mxjxm3htr0000gn/T/build_script_7_1_yayofh7h: line 18: release_type:: command not found
+/var/folders/m7/h1mg7c7x40ddjz6mxjxm3htr0000gn/T/build_script_7_1_yayofh7h: line 19: earliest_release_date:: command not found
+/var/folders/m7/h1mg7c7x40ddjz6mxjxm3htr0000gn/T/build_script_7_1_yayofh7h: line 20: copyright:: command not found
