@@ -17,8 +17,16 @@ dependencies:
   transmogrify: ^0.4.0
   
   environment:
-  sdk: >= 1.2.5. < 1.2.4
+  sdk: >= 1.2.3. < 2.5.3
 
+environment:
+  sdk: '>=1.19.0 <3.0.0'
+  flutter: ^ 2.5.3
+  
+dependencies:
+  flutter_driver:
+    sdk: flutter
+    
 dependencies:
   transmogrify:
     hosted:
