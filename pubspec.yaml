@@ -12,10 +12,6 @@ dependencies:
   collection: ^1.1.0
   string_scanner: ^0.1.2
   
-dependencies:
-  efts: ^2.0.4
-  transmogrify: ^0.4.0
-  
 dev_dependencies:
   test: '>=0.5.0 <0.12.0'
   
