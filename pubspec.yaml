@@ -16,10 +16,6 @@ dependencies:
   transmogrify: ^0.4.0
   
 dependencies:
-  kittens:
-    git: https://github.com/jonnyGh34255/Submodulo-Aplicaciones-iOS-6AM.git
-    
-dependencies:
   flutter_driver:
     sdk: flutter
     
