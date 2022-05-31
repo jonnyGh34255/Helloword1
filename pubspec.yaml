@@ -16,8 +16,6 @@ dependencies:
   transmogrify: ^0.4.0
     
 executables: 
-name: Get Flutter packages
-script: flutter packages pub get
 name: Flutter analyze
 script: flutter analyze
 name: Flutter unit tests
