@@ -18,11 +18,7 @@ dependencies:
   
   environment: 
    flutter_driver:
-  
-
-environment:
-  sdk: '>=1.19.0 <3.0.0'
-  flutter: ^ 2.5.3
+ 
   
 dependencies:
   flutter_driver:
