@@ -1,4 +1,4 @@
-name: submodulo_6am_prg
+name: url_launcher
 
 executables:
   slidy: main
@@ -10,8 +10,8 @@ description: >-
   newt-transmogrification functionality you have been looking
   for.
 version: 1.2.3
-homepage: https://example-pet-store.com/submodulo_6am_prg
-documentation: https://example-pet-store.com/submodulo_6am_prg/docs
+homepage: https://example-pet-store.com/url_launcher
+documentation: https://example-pet-store.com/url_launcher/docs
 
 environment:
   sdk: '>=1.19.0 <3.0.0'
