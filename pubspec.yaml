@@ -15,10 +15,10 @@ environment:
 dependencies:
   efts: ^2.0.4
   transmogrify: ^0.4.0
-    
+ 
+ dependencies:
+  transmogrify: ^1.4.0
+  
 executables: 
   slidy: main
   fvm:
-
-dev_dependencies:
-  test: '>=1.15.0 <2.0.0'
