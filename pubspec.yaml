@@ -1,13 +1,22 @@
-name: newtify
+name: submodulo_6am_prg
+
+executables:
+  slidy: main
+  fvm:
+  
 description: >-
   Have you been turned into a newt?  Would you like to be?
   This package can help. It has all of the
   newt-transmogrification functionality you have been looking
   for.
-version: 1.2.3
-homepage: https://example-pet-store.com/newtify
-documentation: https://example-pet-store.com/newtify/docs
+version: 2.5.3
+homepage: https://example-pet-store.com/submodulo_6am_prg
+documentation: https://example-pet-store.com/submodulo_6am_prg/docs
 
+environment:
+  sdk: '>=1.19.0 <3.0.0'
+  flutter: ^0.1.2
+  
 environment:
   sdk: '>=2.10.0 <3.0.0'
   
