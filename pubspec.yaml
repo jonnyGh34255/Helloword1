@@ -16,8 +16,8 @@ dependencies:
   transmogrify: ^0.4.0
     
 executables: 
-name: Flutter analyze
-script: flutter analyze
+  slidy: main
+  fvm:
 name: Flutter unit tests
   script: flutter test
 name: Build debug iOS app
