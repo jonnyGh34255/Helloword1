@@ -16,8 +16,9 @@ dependencies:
   efts: ^2.5.3
   transmogrify: ^0.4.0
   
-  environment:
-  sdk: >= 1.19.3. < 2.5.3
+  environment: 
+   flutter_driver:
+  sdk: >= 3.0.0 < 2.5.3
 
 environment:
   sdk: '>=1.19.0 <3.0.0'
