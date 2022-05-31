@@ -15,9 +15,6 @@ environment:
 dependencies:
   efts: ^2.0.4
   transmogrify: ^0.4.0
- 
- dependencies:
-  transmogrify: ^1.4.0
   
 executables: 
   slidy: main
