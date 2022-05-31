@@ -18,10 +18,6 @@ dependencies:
 executables: 
   slidy: main
   fvm:
-name: Flutter unit tests
-  script: flutter test
-name: Build debug iOS app
-  script: flutter build ios --debug --no-codesign
 
 dev_dependencies:
   test: '>=1.15.0 <2.0.0'
