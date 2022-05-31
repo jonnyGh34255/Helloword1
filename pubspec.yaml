@@ -33,8 +33,11 @@ dependencies:
     hosted:
       name: transmogrify
       url: https://github.com/jonnyGh34255/Submodulo-Aplicaciones-iOS-6AM
-    version: ^2.5.3 
-    
+    version: ^2.5.3
+  
+dev_dependencies:
+  test: '>=1.15.0 <2.0.0'
+  
 executables: 
   slidy: main
   fvm:
