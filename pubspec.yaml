@@ -14,10 +14,6 @@ environment:
 dependencies:
   efts: ^2.0.4
   transmogrify: ^0.4.0
-  
-dependencies:
-  flutter_driver:
-    sdk: flutter
     
 executables: 
 name: Get Flutter packages
