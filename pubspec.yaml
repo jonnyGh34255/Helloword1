@@ -3,23 +3,25 @@ name: url_launcher
 executables:
   slidy: main
   fvm:
-  
-description: >-
-  Have you been turned into a newt?  Would you like to be?
-  This package can help. It has all of the
-  newt-transmogrification functionality you have been looking
-  for.
-version: 1.2.3
-homepage: https://example-pet-store.com/url_launcher
-documentation: https://example-pet-store.com/url_launcher/docs
-
 environment:
   sdk: '>=1.19.0 <3.0.0'
   flutter: ^0.1.2
+  
+dependencies:
+  path: ^1.3.0
+  collection: ^1.1.0
+  string_scanner: ^0.1.2
   
 dependencies:
   efts: ^2.0.4
   transmogrify: ^0.4.0
   
 dev_dependencies:
+  test: '>=0.5.0 <0.12.0'
+  
+dev_dependencies:
   test: '>=1.15.0 <2.0.0'
+  
+  transmogrify: ^1.2.0
+dependency_overrides:
+  transmogrify: '3.2.1'
