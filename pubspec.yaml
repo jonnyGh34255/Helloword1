@@ -24,7 +24,4 @@ dev_dependencies:
   
 publish_to: none
 
-environment:
-  sdk: '>=1.19.0 <3.0.0'
-  flutter: ^0.1.2
-  
+
