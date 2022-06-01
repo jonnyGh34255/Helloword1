@@ -18,7 +18,10 @@ dependencies:
   
   environment: 
    flutter_driver:
- 
+   
+dependencies:
+  url_launcher: ^5.4.0    # Good, any version >= 5.4.0 but < 6.0.0
+  image_picker: '5.4.3'   # Not so good, only version 5.4.3 works.
   
 dependencies:
   flutter_driver:
@@ -30,6 +33,21 @@ dependencies:
       name: transmogrify
       url: https://github.com/jonnyGh34255/Submodulo-Aplicaciones-iOS-6AM
     version: ^2.5.3
+  
+dependencies:
+  some_package:
+  another_package:
+dependency_overrides:
+  url_launcher: '5.4.0'
+dependencies:
+  plugin1:
+    git:
+      url: git://github.com/flutter/plugin1.git
+      
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^5.4.0
   
 dev_dependencies:
   test: '>=1.15.0 <2.0.0'
