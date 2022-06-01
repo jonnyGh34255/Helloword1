@@ -18,10 +18,6 @@ dependencies:
   
   environment: 
    flutter_driver:
-  
-dependencies:
-  flutter_driver:
-    sdk: flutter
     
 dependencies:
   transmogrify:
