@@ -18,13 +18,6 @@ dependencies:
   
   environment: 
    flutter_driver:
-    
-dependencies:
-  transmogrify:
-    hosted:
-      name: transmogrify
-      url: https://github.com/jonnyGh34255/Submodulo-Aplicaciones-iOS-6AM
-    version: ^2.5.3
   
 dependencies:
   some_package:
