@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const Sumadedosnumros());
+  
+  final numeroA = 67;
+  final numeroB = 23;
+  
+  var suma = numeroA + numeroB;
 }
 
 class MyApp extends StatelessWidget {
@@ -11,7 +16,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Sumadedosnumeros',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -24,7 +29,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Sumadedosnumeros'),
     );
   }
 }
