@@ -1,4 +1,4 @@
-name: Helloword
+name: Sumadedosnumeros
 
 description: >-
   Have you been turned into a newt?  Would you like to be?
@@ -34,7 +34,7 @@ dependency_overrides:
 dependencies:
   plugin1:
     git:
-      url: git://github.com/flutter/plugin1.git
+      url: git://github.com/JonnyGh34255/Submodulo-Aplicaciones-iOS-6AM.git
       
 dependencies:
   flutter:
